@@ -465,7 +465,7 @@ else
 printf "\e[1;92mOK\e[0m\n"
 fi
 
-sleep 1
+sleep 3
 
 done
 printf "\e[1;31m[\e[0m\e[1;77m+\e[0m\e[1;31m]\e[0m\e[1;77m Sleeping 60 secs...\e[0m\n"
@@ -484,7 +484,7 @@ else
 printf "\e[1;92mOK\e[0m\n"
 fi
 
-sleep 1
+sleep 3
 done
 printf "\e[1;31m[\e[0m\e[1;77m+\e[0m\e[1;31m]\e[0m\e[1;77m Sleeping 60 secs...\e[0m\n"
 sleep 5
